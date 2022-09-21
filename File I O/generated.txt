@@ -1,0 +1,2 @@
+Hi I'm Generated now
+.The num is : 10
